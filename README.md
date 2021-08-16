@@ -16,4 +16,3 @@
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihaltintas&theme=dark"/>
 </a>
 
-[![Melih Altıntaş StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=2740071)](https://stackoverflow.com/users/2740071/melih-alt%c4%b1nta%c5%9f)
