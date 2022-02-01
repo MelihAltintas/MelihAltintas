@@ -1,4 +1,4 @@
-### `npx melihaltintas`
+
 
 #### I'm a Full-Stack Developer working in Ankara, Turkey.
 
